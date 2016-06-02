@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/MHG16/MHG16.github.io#readme",
   "dependencies": {
-    "jquery": "^2.2.4"
+    "jquery": "^2.2.4",
+    "skeleton": "^0.1.2"
   }
 }
