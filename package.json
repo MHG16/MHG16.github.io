@@ -1,0 +1,25 @@
+{
+  "name": "mhg16.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHG16/MHG16.github.io.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Martin Grossmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHG16/MHG16.github.io/issues"
+  },
+  "homepage": "https://github.com/MHG16/MHG16.github.io#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
