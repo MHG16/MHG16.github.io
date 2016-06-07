@@ -1,11 +1,12 @@
 
 .banner {
 	background-color: $aqua;  
-	padding: .25em 0em .5em .25em;  
+	padding: .25em; 
 	margin-bottom: 1em; 
 
 	.name {
-		font-size: 3em;  
+		font-size: 3em;
+		color: $black;    
 	}
 
 }

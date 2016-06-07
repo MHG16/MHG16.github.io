@@ -662,10 +662,11 @@ form {
 
 .banner {
   background-color: #77C7C3;
-  padding: .25em 0em .5em .25em;
+  padding: .25em;
   margin-bottom: 1em; }
   .banner .name {
-    font-size: 3em; }
+    font-size: 3em;
+    color: #363636; }
 
 body {
   background-color: #DFD9CB; }
@@ -676,5 +677,9 @@ body {
 
 .thumbnail {
   width: 100%; }
+
+h2 {
+  font-size: 1.25em;
+  color: #363636; }
 
 /*# sourceMappingURL=main.css.map */
