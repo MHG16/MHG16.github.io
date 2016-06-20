@@ -668,6 +668,10 @@ form {
     font-size: 3em;
     color: #363636; }
 
+footer {
+  background-color: #77C7C3;
+  padding: .25em; }
+
 body {
   background-color: #DFD9CB; }
 
