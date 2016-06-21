@@ -10,10 +10,12 @@ body {
 
 
 .img-holder {
-	border: 3px solid $green;  
 	margin-bottom: 1em; 
 }
 
+.img-holder:hover {
+	box-shadow: 7px 7px 5px $green;
+}
 
 .thumbnail {
 	width: 100%;    
