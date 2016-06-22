@@ -7,6 +7,7 @@
 	.name {
 		font-size: 3em;
 		color: $black;    
+		margin-bottom: 0;  
 	}
 
 	.links {
@@ -14,12 +15,15 @@
 		float:right; 
 	}
 
-
 	a {
 		font-size: 1em;
 		color: $black; 
 		text-decoration: none;  
 		padding-right: 1em;  
 	}
+	a:hover {
+		color: $yellow;  
+	}
+
 
 }

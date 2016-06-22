@@ -666,7 +666,8 @@ form {
   margin-bottom: 2em; }
   .banner .name {
     font-size: 3em;
-    color: #363636; }
+    color: #363636;
+    margin-bottom: 0; }
   .banner .links {
     display: inline;
     float: right; }
@@ -675,6 +676,8 @@ form {
     color: #363636;
     text-decoration: none;
     padding-right: 1em; }
+  .banner a:hover {
+    color: #FBB949; }
 
 footer {
   background-color: #77C7C3;
