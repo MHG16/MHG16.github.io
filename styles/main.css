@@ -682,6 +682,8 @@ form {
 footer {
   background-color: #77C7C3;
   height: 3em; }
+  footer p {
+    padding-left: .25em; }
 
 body {
   background-color: #DFD9CB; }
