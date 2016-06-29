@@ -687,7 +687,9 @@ body {
   background-color: #DFD9CB; }
 
 .img-holder {
-  margin-bottom: 1em; }
+  margin-bottom: 2em;
+  height: 18.75em;
+  width: 18.75em; }
 
 .img-holder:hover {
   box-shadow: 7px 7px 5px #9CAA6C; }
